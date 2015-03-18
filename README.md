@@ -14,6 +14,11 @@ The ICs used are the *Spark Core or an Arduino (alternative)*, the spark core is
 All of the ICs are connected to a *IFTTT server*, which has a great graphical UI and easy to use.
 A few custom android apps to help you along the way.
 
+
+![alt text][logo]
+
+[logo]: http://cdn.instructables.com/F2A/0NRL/I3VHJHQF/F2A0NRLI3VHJHQF.MEDIUM.jpg "Spark Core"
+
 ##Project on the way
 With the help of the IoT we can measure **heart rates** and can send the recorded data to your *server or a cloud*. From this doctor could analyse the heart rates and could perform the necessary procedures.
 
